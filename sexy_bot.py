@@ -24,9 +24,6 @@ pip install google-genai opencv-python pyaudio pillow mss gTTS pygame edge-tts n
 Before running this script, ensure the `GOOGLE_API_KEY` environment
 variable is set to the API key you obtained from Google AI Studio.
 
-Important: **Use headphones**. This script uses system default audio
-input/output, so to avoid self-перебивания используйте наушники.
-
 ## Run
 
 To run the script:
