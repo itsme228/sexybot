@@ -1,0 +1,13 @@
+google-generativeai
+opencv-python
+pyaudio
+pillow
+mss
+gTTS
+pygame
+edge-tts
+numpy
+aiohttp
+websockets
+taskgroup
+exceptiongroup
